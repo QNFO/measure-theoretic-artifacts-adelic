@@ -3,7 +3,7 @@ title: "Measure-Theoretic Artifacts of the Archimedean Place — v2.0: The Compl
 author: "QNFO Research Collective — QWAV / QNFO"
 date: "2026-07-26"
 license: "QNFO Unified License Agreement (QNFO-ULA)"
-doi: "PENDING — DO NOT PUBLISH WITHOUT DOI"
+doi: "10.5281/zenodo.21601112"
 status: "draft"
 ---
 
@@ -11,7 +11,7 @@ status: "draft"
 **Date:** 2026-07-26  
 **Version:** 2.0  
 **License:** QNFO-ULA: https://legal.qnfo.org/  
-**DOI:** PENDING  
+**DOI:** [10.5281/zenodo.21601112](https://doi.org/10.5281/zenodo.21601112)  
 **Predecessor:** [v1.0 (DOI: 10.5281/zenodo.21593856)](https://doi.org/10.5281/zenodo.21593856)
 
 **Cross-References:**
